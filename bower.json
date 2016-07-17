@@ -1,0 +1,15 @@
+{
+  "name": "intro-to-git",
+  "version": "1.0.0",
+  "authors": [
+    "Shaw Innes <shaw@immortal.net.au>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
